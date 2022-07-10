@@ -1,6 +1,6 @@
 
 //1.Write a program to print Hello Students on the screen.
-//checking
+//checking1
 /*#include<stdio.h>
 int main()
 {
